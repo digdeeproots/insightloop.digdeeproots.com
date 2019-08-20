@@ -1,11 +1,30 @@
 # Insight Loop Workshop
 ## Code by Refactoring
 
-
-
 ![business reason to do this](img/why-rbr-il-ttt.png)
 
-Delivering this to your developers reduces time for each story, reduces bugs, reduces cost of future stories, and makes it less frustrating for them! You will give them the opportunity to shift from the traditional reading that is so unfriendly to the brain over to a new way of reading that works well with the brain.
+## Workshop Materials
+
+  * PDF of presentation that describes  business reason and learning design to facilitate the Insight Loop to developers (as presented at Agile2019)
+  * Non-Coder's Facilitator's Guide for the Insight Loop Workshop (all videos below are also embedded in guide)
+    * Support Video #1: Honest Names
+    * Support Video #2: Committing - Safe
+    * Support Video #3: Committing - Better
+    * Support Video #4: Committing - No Worse
+    * Support Video #5: Just Enough Process
+    * Support Video #6: Deep Safety
+    * Support Video #7: The Insight Loop
+
+## Why They Care
+The Insight Loop reduces time for each story, reduces bugs, reduces cost of future stories, and makes it less frustrating for them! 
+
+Up to this point, developers have read code in a traditional manner. They read a piece, understand it, and try to remember it as they get the next insight. That is unfriendly to the brain as they try to remember so very much.
+
+![traditionalcodereading](img/ReadingCode-Trad.PNG) 
+
+You will be introducing the Insight Loop, which is a new way of reading that works well with the brain. This makes reading code faster, easier, and---more importantly---less error-prone.
+
+![newcodereading](img/ReadingCode-InsightLoop.PNG)
 
 
 
@@ -16,9 +35,9 @@ Delivering this to your developers reduces time for each story, reduces bugs, re
 
 
 
-## Free to Deliver!
+## Delivery Agreement
 
-We want you to run this workshop for your developers! You are free to perform the workshop, as long as:
+You are free to perform the workshop, as long as:
 
 1. You don't charge for the workshop.
 2. All the recipients are in the same organization (no public workshops).
