@@ -1,9 +1,11 @@
 # Insight Loop Workshop
 ## Code by Refactoring
 
-![business reason to do this](img/why-rbr-il-ttt.png)
+<img src="img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
 
 ## Workshop Materials
+
+Are you ready to facilitate your team as they learn the Insight Loop?
 
   * PDF of presentation that describes  business reason and learning design to facilitate the Insight Loop to developers (as presented at Agile2019)
   * Non-Coder's Facilitator's Guide for the Insight Loop Workshop (all videos below are also embedded in guide)
@@ -15,16 +17,17 @@
     * Support Video #6: Deep Safety
     * Support Video #7: The Insight Loop
 
-## Why They Care
+## Why Developers Care
+
 The Insight Loop reduces time for each story, reduces bugs, reduces cost of future stories, and makes it less frustrating for them! 
 
 Up to this point, developers have read code in a traditional manner. They read a piece, understand it, and try to remember it as they get the next insight. That is unfriendly to the brain as they try to remember so very much.
 
-![traditionalcodereading](img/ReadingCode-Trad.PNG) 
+<img src="img/ReadingCode-Trad.PNG" title="traditional code reading" style="display:block; margin: 0 auto;">
 
 You will be introducing the Insight Loop, which is a new way of reading that works well with the brain. This makes reading code faster, easier, and---more importantly---less error-prone.
 
-![newcodereading](img/ReadingCode-InsightLoop.PNG)
+<img src="img/ReadingCode-InsightLoop.PNG" title="new code reading" style="display:block; margin: 0 auto;">
 
 
 
