@@ -1,6 +1,3 @@
----
-image: /img/why-rbr-il-ttt.png
----
 # Insight Loop Workshop
 ## Code by Refactoring
 
@@ -21,7 +18,6 @@ Are you ready to facilitate your team as they learn the Insight Loop?
     * Support [Video #7: The Insight Loop](/dl/Video7-TheInsightLoop.mp4)
 
 ## Why Developers Care
-
 
 The Insight Loop reduces time for each story, reduces bugs, reduces cost of future stories, and makes it less frustrating for them! 
 
@@ -52,6 +48,6 @@ You are free to perform the workshop, as long as:
 
 Please contact us at [legal@digdeeproots.com](mailto:legal@digdeeproots.com) if you would like to edit the workshop or include it in a larger workshop. We are happy to work with requests.
 
-<p class="legal"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Code by Refactoring Insight Loop Workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://insightloop.digdeeproots.com/" property="cc:attributionName" rel="cc:attributionURL">Deep Roots</a> is licensed as defined at <a xmlns:cc="http://creativecommons.org/ns#" href="https://insightloop.digdeeproots.com/license" rel="cc:morePermissions">https://insightloop.digdeeproots.com/license</a>.</p>
+<p class="begin legal"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Code by Refactoring Insight Loop Workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://insightloop.digdeeproots.com/" property="cc:attributionName" rel="cc:attributionURL">Deep Roots</a> is licensed as defined at <a xmlns:cc="http://creativecommons.org/ns#" href="https://insightloop.digdeeproots.com/license" rel="cc:morePermissions">https://insightloop.digdeeproots.com/license</a>.</p>
 
 <p class="legal">Copyright @copy; 2019, Dig Deep Roots, LLC.</p>

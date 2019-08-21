@@ -1,5 +1,5 @@
 ---
-image: /img/why-rbr-il-ttt.png
+image: /img/why-rbr-il-ttt-preview.png
 title: 'Stories: half off!'
 ---
 # Insight Loop Workshop
