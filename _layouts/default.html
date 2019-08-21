@@ -21,13 +21,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+	<ul>
+		<li class="view">Problem with the materials?<a href="https://github.com/digdeeproots/insightloop.digdeeproots.com/issues/new">Report it!</a></li>
+		<li class="view">Need help or want to take it further?<a href="mailto:sales@digdeeproots.com">Email us!</a></li>
+		<li class="view">Want to sing our praises?<a href="https://twitter.com/digdeeproots">Tweet @digdeeproots!</a></li>
+	</ul>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <p class="view">Curious? Please reach out to Deep Roots by [email (sales@digdeeproots.com)](mailto:sales@digdeeproots.com) or on [Twitter (@digdeeproots)](https://twitter.com/digdeeproots)!</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
