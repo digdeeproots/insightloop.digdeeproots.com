@@ -7,8 +7,8 @@
 
 Are you ready to facilitate your team as they learn the Insight Loop?
 
-  * PDF of presentation that describes  business reason and learning design to facilitate the Insight Loop to developers (as presented at Agile2019)
-  * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/) (all videos below are also embedded in guide)
+  * PDF of presentation that [describes business reason and how to facilitate the Insight Loop for developers](/dl/train-the-trainer-rbr-insight-loop.pdf) (as presented at Agile2019)
+  * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/facilitator-guide.pdf) (all videos below are also embedded in guide)
     * Support [Video #1: Honest Names](/dl/Video1-HonestNames.mp4)
     * Support [Video #2: Committing - Safe](/dl/Video2-Committing-Safe.mp4)
     * Support [Video #3: Committing - Better](/dl/Video3-Committing-Better.mp4)
@@ -29,14 +29,14 @@ You will be introducing the Insight Loop, which is a new way of reading that wor
 
 <img src="img/ReadingCode-InsightLoop.PNG" title="new code reading" style="display:block; margin: 0 auto;">
 
+## What's Next?
 
+2 things!
 
+  1. Making these habits stick.
+  2. A whole bunch more of Code by Refactoring, to address common legacy code problems.
 
-
-
-
-
-
+Curious? Please reach out to Deep Roots by [email](mailto:sales@digdeeproots.com) or on [Twitter (@digdeeproots)](https://twitter.com/digdeeproots)!
 
 ## Delivery Agreement
 
