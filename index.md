@@ -8,6 +8,7 @@ image: /img/why-rbr-il-ttt.png
 
 ## Workshop Materials
 
+
 Are you ready to facilitate your team as they learn the Insight Loop?
 
   * PDF of presentation that [describes business reason and how to facilitate the Insight Loop for developers](/dl/train-the-trainer-rbr-insight-loop.pdf) (as presented at Agile2019)
