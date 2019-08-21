@@ -1,7 +1,8 @@
 ---
 image: /img/why-rbr-il-ttt.png
+title: 'Stories: half off!'
 ---
-# The Insight Loop Workshop
+# Insight Loop Workshop
 ## Code by Refactoring
 
 <img src="/img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">

@@ -1,5 +1,5 @@
 ---
-title: License
+title: License | Insight Loop Workshop
 ---
 # Insight Loop Workshop from Code by Refactoring
 
