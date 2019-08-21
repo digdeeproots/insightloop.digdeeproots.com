@@ -3,19 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.footer {
+footer {
 	bottom: 20px;
 }
 
-.header {
+header {
 	top: 20px;
 }
 
-p {
+blockquote, p {
 	margin-bottom: 0.6em;
 }
 
-.footer p {
+footer p {
 	font-size: 80%;
 	margin-bottom: 0.2em;
 }
