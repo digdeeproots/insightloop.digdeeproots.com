@@ -11,8 +11,12 @@ header {
 	top: 20px;
 }
 
-blockquote, p {
+p {
 	margin-bottom: 0.6em;
+}
+
+header blockquote {
+	margin: 1.6em 0;
 }
 
 footer p {
