@@ -8,14 +8,14 @@
 Are you ready to facilitate your team as they learn the Insight Loop?
 
   * PDF of presentation that describes  business reason and learning design to facilitate the Insight Loop to developers (as presented at Agile2019)
-  * Non-Coder's Facilitator's Guide for the Insight Loop Workshop (all videos below are also embedded in guide)
-    * Support Video #1: Honest Names
-    * Support Video #2: Committing - Safe
-    * Support Video #3: Committing - Better
-    * Support Video #4: Committing - No Worse
-    * Support Video #5: Just Enough Process
-    * Support Video #6: Deep Safety
-    * Support Video #7: The Insight Loop
+  * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/) (all videos below are also embedded in guide)
+    * Support [Video #1: Honest Names](/dl/Video1-HonestNames.mp4)
+    * Support [Video #2: Committing - Safe](/dl/Video2-Committing-Safe.mp4)
+    * Support [Video #3: Committing - Better](/dl/Video3-Committing-Better.mp4)
+    * Support [Video #4: Committing - No Worse](/dl/Video4-Committing-NoWorse.mp4)
+    * Support [Video #5: Just Enough Process](/dl/Video5-Committing-JustEnoughProcess.mp4)
+    * Support [Video #6: Deep Safety](/dl/Video6-Committing-DeepSafety.mp4)
+    * Support [Video #7: The Insight Loop](/dl/Video7-TheInsightLoop.mp4)
 
 ## Why Developers Care
 
