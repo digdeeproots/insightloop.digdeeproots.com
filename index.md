@@ -1,7 +1,7 @@
 ---
 image: /img/why-rbr-il-ttt.png
 ---
-# Insight Loop Workshop
+# The Insight Loop Workshop
 ## Code by Refactoring
 
 <img src="/img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
