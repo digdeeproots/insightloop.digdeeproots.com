@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.footer {
+	bottom: 20px;
+}
+
+.header {
+	top: 20px;
+}
+
+p {
+	margin-bottom: 0.6em;
+}
+
+.footer p {
+	font-size: 80%;
+	margin-bottom: 0.2em;
+}

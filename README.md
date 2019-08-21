@@ -19,6 +19,7 @@ Are you ready to facilitate your team as they learn the Insight Loop?
 
 ## Why Developers Care
 
+
 The Insight Loop reduces time for each story, reduces bugs, reduces cost of future stories, and makes it less frustrating for them! 
 
 Up to this point, developers have read code in a traditional manner. They read a piece, understand it, and try to remember it as they get the next insight. That is unfriendly to the brain as they try to remember so very much.
