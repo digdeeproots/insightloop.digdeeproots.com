@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: 
-description: Everything you need to introduce the Insight Loop at your company!
+title: "Stories: half off!"
+description: The Insight Loop cuts your stories in half. Facilitate this free 1/2-day workshop for your devs!
 logo: /img/deep-roots-logo.png
 show_downloads: false
+author:
+  twitter: digdeeproots

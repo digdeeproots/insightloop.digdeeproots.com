@@ -1,7 +1,10 @@
+---
+image: /img/why-rbr-il-ttt.png
+---
 # Insight Loop Workshop
 ## Code by Refactoring
 
-<img src="img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
+<img src="/img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
 
 ## Workshop Materials
 
@@ -24,11 +27,11 @@ The Insight Loop reduces time for each story, reduces bugs, reduces cost of futu
 
 Up to this point, developers have read code in a traditional manner. They read a piece, understand it, and try to remember it as they get the next insight. That is unfriendly to the brain as they try to remember so very much.
 
-<img src="img/ReadingCode-Trad.PNG" title="traditional code reading" style="display:block; margin: 0 auto;">
+<img src="/img/ReadingCode-Trad.PNG" title="traditional code reading" style="display:block; margin: 0 auto;">
 
 You will be introducing the Insight Loop, which is a new way of reading that works well with the brain. This makes reading code faster, easier, and---more importantly---less error-prone.
 
-<img src="img/ReadingCode-InsightLoop.PNG" title="new code reading" style="display:block; margin: 0 auto;">
+<img src="/img/ReadingCode-InsightLoop.PNG" title="new code reading" style="display:block; margin: 0 auto;">
 
 ## What's Next?
 
