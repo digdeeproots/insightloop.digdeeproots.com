@@ -15,7 +15,7 @@ This license is an attempt to meet these intentions. If you feel it does not mee
 
 The legally-binding license begins here.
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Code by Refactoring Insight Loop Workshop</span> and all supporting materials (together, the "Workshop") are Copyright @copy; 2019, Dig Deep Roots, LLC (DBA <a xmlns:cc="http://creativecommons.org/ns#" href="https://insightloop.digdeeproots.com/" property="cc:attributionName" rel="cc:attributionURL">Deep Roots</a>).
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Code by Refactoring Insight Loop Workshop</span> and all supporting materials (together, the "Workshop") are Copyright @copy; 2019, Dig Deep Roots, LLC (DBA <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.digdeeproots.com/" property="cc:attributionName" rel="cc:attributionURL">Deep Roots</a>).
 
 You are licensed to perform the workshop or use the materials as defined in <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
