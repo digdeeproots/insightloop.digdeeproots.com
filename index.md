@@ -7,6 +7,18 @@ title: 'Stories: half off!'
 
 <img src="/img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
 
+This page helps a non-coding coach teach the Insight Loop to a software team. A non-coder teach developers? Yes! We created this workshop to help you set up the right situation and ask the right questions so that the developers teach themselves a new way of thinking how they code. 
+
+If you bring this to your team, you'll help them:
+
+* Finish stories in less time, while
+* Writing fewer bugs.
+
+This happens because they:
+
+* Read code more effectively, while
+* fixing the hazards that cause bugs.
+
 ## Workshop Materials
 
 Are you ready to facilitate your team as they learn the Insight Loop?
