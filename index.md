@@ -7,10 +7,23 @@ title: 'Stories: half off!'
 
 <img src="/img/why-rbr-il-ttt.png" title="business reason to do this" style="display:block; margin: 0 auto;">
 
+This page helps a non-coding coach teach the Insight Loop to a software team. A non-coder teach developers? Yes! We created this workshop to help you set up the right situation and ask the right questions so that the developers teach themselves a new way of thinking how they code. 
+
+If you bring this to your team, you'll help them:
+
+* Finish stories in less time, while
+* Writing fewer bugs.
+
+This happens because they:
+
+* Read code more effectively, while
+* fixing the hazards that cause bugs.
+
 ## Workshop Materials
 
 Are you ready to facilitate your team as they learn the Insight Loop?
 
+  * Join the [Insight Loop Slack channel](https://join.slack.com/t/insightloop/shared_invite/enQtNzg3MzkwNTY0NTEzLWI4NTRmODc3YWJkY2MwNjZjNDU4YjM4ZWQzNmFiNDQ0OTVjZmI5YjQ1MmE2MDQ4ODdhYmQwZjc1MzU2YTFlNjY)
   * PDF of presentation that [describes business reason and how to facilitate the Insight Loop for developers](/dl/train-the-trainer-rbr-insight-loop.pdf) (as presented at Agile2019)
   * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/facilitator-guide.pdf) (all videos below are also embedded in guide)
     * Support [Video #1: Honest Names](/dl/Video1-HonestNames.mp4)
