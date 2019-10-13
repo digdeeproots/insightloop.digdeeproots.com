@@ -54,7 +54,7 @@ You will be introducing the Insight Loop, which is a new way of reading that wor
   1. Making these habits stick.
   2. A whole bunch more of Code by Refactoring, to address common legacy code problems.
 
-Curious? Please reach out to Deep Roots by [email (sales@digdeeproots.com)](mailto:sales@digdeeproots.com) or on [Twitter (@digdeeproots)](https://twitter.com/digdeeproots)!
+Curious? Please reach out to [Deep Roots](https://www.digdeeproots.com/) by [email (sales@digdeeproots.com)](mailto:sales@digdeeproots.com) or on [Twitter (@digdeeproots)](https://twitter.com/digdeeproots)!
 
 ## Delivery Agreement
 
