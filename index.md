@@ -17,7 +17,7 @@ If you bring this to your team, you'll help them:
 This happens because they:
 
 * Read code more effectively, while
-* fixing the hazards that cause bugs.
+* Fixing the hazards that cause bugs.
 
 ## Workshop Materials
 
