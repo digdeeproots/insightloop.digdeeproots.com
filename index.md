@@ -23,9 +23,9 @@ This happens because they:
 
 Are you ready to facilitate your team as they learn the Insight Loop?
 
-  * Join the [Insight Loop Slack channel](https://join.slack.com/t/insightloop/shared_invite/enQtNzg3MzkwNTY0NTEzLWI4NTRmODc3YWJkY2MwNjZjNDU4YjM4ZWQzNmFiNDQ0OTVjZmI5YjQ1MmE2MDQ4ODdhYmQwZjc1MzU2YTFlNjY)
-  * PDF of presentation that [describes business reason and how to facilitate the Insight Loop for developers](/dl/train-the-trainer-rbr-insight-loop.pdf) (as presented at Agile2019)
-  * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/facilitator-guide.pdf) (all videos below are also embedded in guide)
+  * Join the [Insight Loop Slack channel](https://join.slack.com/t/insightloop/shared_invite/enQtNzg3MzkwNTY0NTEzLWI4NTRmODc3YWJkY2MwNjZjNDU4YjM4ZWQzNmFiNDQ0OTVjZmI5YjQ1MmE2MDQ4ODdhYmQwZjc1MzU2YTFlNjY) <br>
+  * Youtube playlist that [describes business reason and shows how to facilitate the Insight Loop for developers](https://www.youtube.com/playlist?list=PLe6OWl1RXGEMNbGTwEZlr4vqlnrko7aq6) <br>
+  * [Non-Coder's Facilitator's Guide for the Insight Loop Workshop](/dl/facilitator-guide.pdf) (all videos below are also embedded in guide) <br>
     * Support [Video #1: Honest Names](/dl/Video1-HonestNames.mp4)
     * Support [Video #2: Committing - Safe](/dl/Video2-Committing-Safe.mp4)
     * Support [Video #3: Committing - Better](/dl/Video3-Committing-Better.mp4)
